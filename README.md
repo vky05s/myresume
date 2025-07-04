@@ -24,3 +24,5 @@ Hobbies
 Reading books
 Listening music
 Riding
+
+https://roadmap.sh/projects/single-page-cv
